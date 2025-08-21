@@ -2,7 +2,7 @@
 
 - 🎓 French student at **Epitech**
 - 🤖 Passionate about **AI**, **Deep Learning** and **Algorithms**
-- 🚀 **Always building **cool projects**
+- 🚀 Always building **cool projects**
 
 ## ⚡ Tech Stack  
 
@@ -14,14 +14,14 @@
 
 ## 🚀 Featured Projects
 
-### [Robocar](https://github.com/AlexyanComino/robocar)
+### [Robocar 🏎️](https://github.com/AlexyanComino/robocar)
 Autonomous RC car powered by AI.  
 ➡️ Jetson Nano + U-Net for lane detection + decision AI  
 
-### [MyRPG.cpp](https://github.com/AlexyanComino/MyRPG.cpp)
+### [MyRPG.cpp 🎮](https://github.com/AlexyanComino/MyRPG.cpp)
 Currently remaking a 2D RPG game in C++ 🚀
 
-### [Another](https://github.com/AlexyanComino/MyRPG.cpp)
+### [Another ❓](https://github.com/AlexyanComino/MyRPG.cpp)
 WIP 🚀
 
 
