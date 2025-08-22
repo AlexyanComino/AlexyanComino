@@ -26,6 +26,9 @@ Autonomous RC car powered by AI.
 ### [MyRPG.cpp 🎮](https://github.com/AlexyanComino/MyRPG.cpp)
 Currently remaking a 2D RPG game in C++ 🚀
 
+### [NanoTekSpice 🔌](https://github.com/AlexyanComino/NanoTekSpice)
+An electronic circuit simulator that allows you to simulate logic circuits 💻
+
 <!---
 ### [Another ❓](https://github.com/AlexyanComino/MyRPG.cpp)
 WIP 🚀
