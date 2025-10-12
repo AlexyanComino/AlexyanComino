@@ -8,7 +8,8 @@
 
 - 🐍 Python  
 - 💻 C++ | C | C#
-- 🔢 Haskell  
+- 🔢 Haskell
+- 🌐 JavaScript | TypeScript | React
 - 🗄️ SQL
 - 🎮 Unity
 
