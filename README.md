@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-### [Robocar 🏎️](https://github.com/AlexyanComino/robocar)
+### [Robocar 🏎️](https://github.com/AlexyanComino/robocar) << Currently Private (Ongoing competition)
 Autonomous RC car powered by AI.  
 ➡️ Jetson Nano + U-Net for lane detection + decision AI  
 
