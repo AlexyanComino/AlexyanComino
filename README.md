@@ -13,16 +13,18 @@
 - 🗄️ SQL
 - 🎮 Unity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexyanComino&theme=dark&show_icons=true&hide_border=true&layout=compact)  
-![AlexyanComino's Stats](https://github-readme-stats.vercel.app/api?username=AlexyanComino&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![AlexyanComino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexyanComino&theme=dark&hide_border=true)
-
-
 ## 🚀 Featured Projects
 
 ### [Robocar 🏎️](https://github.com/AlexyanComino/robocar) << Currently Private (Ongoing competition)
 Autonomous RC car powered by AI.  
-➡️ Jetson Nano + U-Net for lane detection + decision AI  
+- Design and development of a ROS 2-based autonomous vehicle.
+- Implementation of industrial software architecture (ROS 2 Humble, Nav2, SLAM).
+- Sensor fusion and integration (LiDAR, GPS, IMU, Camera) using Extended Kalman Filter (EKF).
+- Full autonomous navigation stack implementation: Mapping, global & local path planning, and control.
+- Development of trajectory tracking algorithms and dynamic obstacle avoidance.
+- Embedded systems deployment on NVIDIA Jetson Nano (Linux Ubuntu, Docker).
+- Simulation and validation using NVIDIA Isaac Sim (Digital Twin, Sim-to-Real).
+- 3D modeling and component placement optimization.
 
 ### [MyRPG.cpp 🎮](https://github.com/AlexyanComino/MyRPG.cpp)
 Currently remaking a 2D RPG game in C++ 🚀
